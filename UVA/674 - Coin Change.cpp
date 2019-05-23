@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+//using dp coin change
+
 
 int coin[] = {50,25,10,5,1};
 int target;
